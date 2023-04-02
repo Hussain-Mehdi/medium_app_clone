@@ -1,16 +1,17 @@
-# medium_app_clone
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Medium App</h1>
+<p>
+    <img src="images/signin.png" width="270">
+    <img src="images/signup.png" width="270">
+  <img src="images/mainscreenshimmer.png" width="270" >
+  <img src="images/homescreen.png" width="270">
+  <img src="images/homescreen1.png" width="270">
+  <img src="images/opennews.png" width="270">
+  <img src="images/searchednews.png" width="270">
+  <img src="images/searchnews.png" width="270">
+  <img src="images/settingscreen.png" width="270">
+  <img src="images/drawer.png" width="270">
+  <img src="images/profilescreen.png" width="270">
+  <img src="images/editprofile.png" width="270">
+ 
+  </p>

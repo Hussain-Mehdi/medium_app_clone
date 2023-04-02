@@ -7,7 +7,7 @@ class HttpHelper {
 
   final String authority = 'newsapi.org';
   final String path = 'v2/everything';
-  final String apiKey = 'Enter your API key here';
+  final String apiKey = '430b9b98648f414791be281ab84d33fc';
 
   Future<List<News>> getNews(String location) async {
     Map<String, dynamic> parameter = {'q': location, 'apiKey': apiKey};

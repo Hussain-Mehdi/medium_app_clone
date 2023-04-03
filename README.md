@@ -2,6 +2,7 @@
 <h1>Medium App clone</h1>
 <p>
     <img src="images/signin.png" width="270">
+    <h2>Home screen</h2>
     <img src="images/signup.png" width="270">
   <img src="images/mainscreenshimmer.png" width="270" >
   <img src="images/homescreen.png" width="270">

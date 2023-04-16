@@ -1,5 +1,13 @@
 
 <h1>Medium App clone</h1>
+
+
+
+
+https://user-images.githubusercontent.com/75681588/232289509-e2093b3a-f959-44d7-abca-18bf1a116e11.mp4
+
+
+
 <p>
     <img src="images/signin.png" width="270">
     <img src="images/signup.png" width="270">

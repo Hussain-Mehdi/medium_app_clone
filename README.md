@@ -1,5 +1,5 @@
 
-<h1>Medium App</h1>
+<h1>Medium App clone</h1>
 <p>
     <img src="images/signin.png" width="270">
     <img src="images/signup.png" width="270">

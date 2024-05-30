@@ -9,11 +9,11 @@ Welcome to the **Medium Clone App**! This project is a feature-rich clone of the
 - **Profile Management**: Customize your profile, view your articles, and manage drafts.
 - **Search & Explore**: Find articles by tags, keywords, or author.
 
-
+## Demo Video
 https://user-images.githubusercontent.com/75681588/232289509-e2093b3a-f959-44d7-abca-18bf1a116e11.mp4
 
 
-
+## Screenshots
 <p>
     <img src="images/signin.png" width="270">
     <img src="images/signup.png" width="270">

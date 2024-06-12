@@ -14,11 +14,11 @@ class News {
 
   factory News.fromJson(Map<String, dynamic> json) {
     return News(
-      newsTitle: json['title'],
-      newsImage: json['urlToImage'],
-      newsDate: DateTime.parse(json['publishedAt']),
+      newsTitle: json['title'] ?? "No Title",
+      newsImage: json['urlToImage'] ?? "No Image",
+      newsDate: DateTime.parse(json['publishedAt']) ?? DateTime.now(),
       authorName: json['author'] ?? 'No author',
-      newsURL: json['url'],
+      newsURL: json['url'] ?? "No Url",
     );
   }
 }
